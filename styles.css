@@ -122,6 +122,9 @@ table tbody td{
 td.description{
     color: var(--dark-blue);
 }
+td.date{
+    color: var(--dark-blue);
+}
 td.income{
     color: #12a454;     
 }
